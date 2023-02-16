@@ -22,6 +22,7 @@ Car price prediction is commonly used in the **automotive industry** and is used
 ## Steps
 
 ![Steps](https://github.com/kishankalariya/Car_price_prediction/blob/master/Steps_img/car%20price%20predition.drawio.png?raw=true)
+(Diagram created using the drow.io website)
 
 
 
